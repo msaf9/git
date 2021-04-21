@@ -1,4 +1,4 @@
 # git
-Git experiments 
 
-For testing my git skills.
+Git Exercise
+Create, Edit, Commit, Push, Pull, Merge, and Rebase
